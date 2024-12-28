@@ -1,7 +1,7 @@
 #!/bin/bash
-HOSTED_ZONE_ID="Z04410211MZ57SQOXFNI3"
-INSTANCE_ID="i-0109085075a2bc14f"
-DNS_NAME="ws.bapatlas.site"
+HOSTED_ZONE_ID="Z05092734G4FDXVKQUHI"
+INSTANCE_ID="i-05700d118a5a89fa1"
+DNS_NAME="mini.ws.nirvanan.online"
 read -p "Please Enter Desired Instance Type: " NEW_INSTANCE_TYPE
 
 # Check the current state of the EC2 instance
