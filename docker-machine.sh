@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HOSTED_ZONE_ID="Z04410211MZ57SQOXFNI3"  
-RECORD_NAME="docker.bapatlas.site"   
+HOSTED_ZONE_ID="Z05092734G4FDXVKQUHI"  
+RECORD_NAME="docker.nirvanan.online"   
 
 # Step 1: Prompt for the instance type
 echo "Please enter the instance type (e.g., t3a.medium, t3.medium.......): "
